@@ -26,5 +26,5 @@ This project predicts future sales using historical data.
 - Demand forecasting
 - Better decision making
 
-## 🚀 Conclusion
+##  Conclusion
 This project shows how machine learning helps businesses predict future sales.
