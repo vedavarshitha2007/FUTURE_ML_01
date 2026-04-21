@@ -16,7 +16,7 @@ This project predicts future sales using historical data.
 - Model training using Linear Regression
 - Forecasting future sales
 - Visualization of results
-
+  
 ##  Results
 - Sales trends analyzed over time
 - Future sales predicted for upcoming days
